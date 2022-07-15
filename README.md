@@ -1,5 +1,5 @@
 # AI_Pacman
-AI implementation for CS188 The Pac-man Projects
+AI implementation of CS188 The Pac-man Projects
 
 ---
 
